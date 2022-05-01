@@ -4,7 +4,9 @@
         "colorSrc":["https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-space-gray-201508?wid=64&amp;hei=64&amp;fmt=png-alpha&amp;.v=0","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-silver-201508?wid=64&amp;hei=64&amp;fmt=png-alpha&amp;.v=0"],
         "color" :["太空灰色","銀色"],
         "network":["Wi-Fi+ 行動網路","Wi-Fi+"],
-        "storage":["128GB","26GB","512GB","1TB","2TB"]
+        "storage":["128GB","26GB","512GB","1TB","2TB"],
+        "productImg":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-spacegray-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617925790000","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-silver-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617912663000"
+        
             }
     }
 
