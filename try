@@ -1,7 +1,7 @@
 
     {"ipad":{
         "Screen":["11吋顯示器","12吋顯示器"],
-        "color-src":["https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-space-gray-201508?wid=64&amp;hei=64&amp;fmt=png-alpha&amp;.v=0","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-silver-201508?wid=64&amp;hei=64&amp;fmt=png-alpha&amp;.v=0"]
+        "color-src":["https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-space-gray-201508?wid=64&amp;hei=64&amp;fmt=png-alpha&amp;.v=0","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-silver-201508?wid=64&amp;hei=64&amp;fmt=png-alpha&amp;.v=0"],
         "color" :["太空灰色","銀色"],
         "network":["Wi-Fi+ 行動網路","Wi-Fi+"],
         "storage":["128GB","26GB","512GB","1TB","2TB"]
