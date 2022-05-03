@@ -1,5 +1,6 @@
 {
-    "ipad":{
+    "ipadPro":{
+        "presetProduct":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-12-11-select-202104_GEO_TW?wid=545&hei=550&fmt=jpeg&qlt=95&.v=1617864731000", 
         "Screen":["11吋顯示器","12吋顯示器"],
         "colorSrc":["https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-space-gray-201508?wid=64&amp;hei=64&amp;fmt=png-alpha&amp;.v=0","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/finish-silver-201508?wid=64&amp;hei=64&amp;fmt=png-alpha&amp;.v=0"],
         "color" :["太空灰色","銀色"],
@@ -9,12 +10,12 @@
         "productImgSrc":["https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-spacegray-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617925790000","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-silver-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617912663000"]
             },
     "iPhone_13_Pro":{
+        "presetProduct":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1644969385433",
         "Screen":["iPhone 13 Pro","iPhone 13 Pro Max"],
         "colorSrc":["https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-finish-green-202203?wid=204&amp;hei=204&amp;fmt=jpeg&amp;qlt=90&amp;.v=1645149891269","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-silver-2021?wid=204&amp;hei=204&amp;fmt=jpeg&amp;qlt=90&amp;.v=1629940690000","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-gold-2021?wid=204&amp;hei=204&amp;fmt=jpeg&amp;qlt=90&amp;.v=1629940690000","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-graphite-2021?wid=204&amp;hei=204&amp;fmt=jpeg&amp;qlt=90&amp;.v=1629940690000","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-blue-2021?wid=204&amp;hei=204&amp;fmt=jpeg&amp;qlt=90&amp;.v=1629940690000"],
         "color" :["松嶺青色","銀色","金色","石墨色","天峰藍色"],
         "storage":["128GB","256GB","512GB","1TB"],
         "price":["NT$32,900","NT$36,400","NT$43,400","NT$50,400"],
-        "productImgSrc":["https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-green-select?wid=470&hei=556&fmt=png-alpha&.v=1644969385505","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-silver-select?wid=470&hei=556&fmt=png-alpha&.v=1645552345849","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-gold-select?wid=470&hei=556&fmt=png-alpha&.v=1645552345862","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-graphite-select?wid=470&hei=556&fmt=png-alpha&.v=1645552346276","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-blue-select?wid=470&hei=556&fmt=png-alpha&.v=1645552346275"],
-        "changeIphone":["否","是"]
+        "productImgSrc":["https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-green-select?wid=470&hei=556&fmt=png-alpha&.v=1644969385505","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-silver-select?wid=470&hei=556&fmt=png-alpha&.v=1645552345849","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-gold-select?wid=470&hei=556&fmt=png-alpha&.v=1645552345862","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-graphite-select?wid=470&hei=556&fmt=png-alpha&.v=1645552346276","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-blue-select?wid=470&hei=556&fmt=png-alpha&.v=1645552346275"]
     }
 }
