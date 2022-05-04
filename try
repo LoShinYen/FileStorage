@@ -6,11 +6,11 @@
         "color" :["太空灰色","銀色"],
         "network":["Wi-Fi","Wi-Fi+ 行動網路"],
         "storage":{
-                    "128GB":"NT$24,900",
-                    "256GB":"NT$28,000",
-                    "512GB":"NT$34,200",
-                    "1TB":"NT$46,600",
-                    "2TB":"NT$59,000"
+                    "128GB":"24900",
+                    "256GB":"28000",
+                    "512GB":"34200",
+                    "1TB":"46600",
+                    "2TB":"59000"
         },
         "productImgSrc":["https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-spacegray-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617925790000","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-cell-silver-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617912663000"]
             },
@@ -20,10 +20,10 @@
         "colorSrc":["https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-finish-green-202203?wid=204&amp;hei=204&amp;fmt=jpeg&amp;qlt=90&amp;.v=1645149891269","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-silver-2021?wid=204&amp;hei=204&amp;fmt=jpeg&amp;qlt=90&amp;.v=1629940690000","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-gold-2021?wid=204&amp;hei=204&amp;fmt=jpeg&amp;qlt=90&amp;.v=1629940690000","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-graphite-2021?wid=204&amp;hei=204&amp;fmt=jpeg&amp;qlt=90&amp;.v=1629940690000","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-finish-blue-2021?wid=204&amp;hei=204&amp;fmt=jpeg&amp;qlt=90&amp;.v=1629940690000"],
         "color" :["松嶺青色","銀色","金色","石墨色","天峰藍色"],
         "storage":{
-            "128GB":"NT$32,900",
-            "256GB":"NT$36,400",
-            "512GB":"NT$43,400",
-            "1TB":"NT$50,400"
+            "128GB":"32900",
+            "256GB":"36400",
+            "512GB":"43400",
+            "1TB":"50400"
         },
         "productImgSrc":["https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-green-select?wid=470&hei=556&fmt=png-alpha&.v=1644969385505","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-silver-select?wid=470&hei=556&fmt=png-alpha&.v=1645552345849","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-gold-select?wid=470&hei=556&fmt=png-alpha&.v=1645552345862","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-graphite-select?wid=470&hei=556&fmt=png-alpha&.v=1645552346276","https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-13-pro-blue-select?wid=470&hei=556&fmt=png-alpha&.v=1645552346275"]
     }
