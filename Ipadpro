@@ -1,5 +1,6 @@
-
-    [
+[
+    {"iPadPro":
+        [ 
             { "id":"A001","Screen":"11吋顯示器" ,"color": "太空灰色", "network":"Wi-Fi","storage":"128GB","price": 24900, "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-spacegray-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617927611000" },
             { "id":"A002","Screen":"11吋顯示器" ,"color": "太空灰色", "network":"Wi-Fi","storage":"256GB","price": 28000, "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-spacegray-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617927611000" },
             { "id":"A003","Screen":"11吋顯示器" ,"color": "太空灰色", "network":"Wi-Fi","storage":"512GB","price": 34200, "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-11-select-wifi-spacegray-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617927611000" },
@@ -40,4 +41,6 @@
             { "id":"A038","Screen":"12吋顯示器" ,"color": "銀色", "network":"Wi-Fi+ 行動網路","storage":"512GB","price": 49200, "picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-12-select-cell-silver-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617919669000" },
             { "id":"A039","Screen":"12吋顯示器" ,"color": "銀色 ","network":"Wi-Fi+ 行動網路","storage":"1TB", "price": 61400,"picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-12-select-cell-silver-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617919669000" },
             { "id":"A040","Screen":"12吋顯示器" ,"color": "銀色 ","network":"Wi-Fi+ 行動網路","storage":"2TB", "price": 74000,"picture":"https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-12-select-cell-silver-202104_GEO_TW?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617919669000" }
+        ]
+    }
 ]
